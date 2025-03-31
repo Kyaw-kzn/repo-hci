@@ -1,0 +1,1 @@
+1. Fork or Clone the repository\n2. Create a new branch\n3. Make changes and commit\n4. Push to GitHub\n5. Create a Pull Request (PR) and merge

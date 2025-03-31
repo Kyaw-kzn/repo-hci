@@ -1,0 +1,1 @@
+1. git add . (Stages all changes)\n2. git commit -m 'Commit message' (Saves changes locally)

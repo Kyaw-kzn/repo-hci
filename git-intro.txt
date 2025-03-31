@@ -1,0 +1,1 @@
+A collaborative model in Git allows multiple developers to work on the same project, merge changes, and track history efficiently.
